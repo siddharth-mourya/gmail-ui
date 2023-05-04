@@ -1,0 +1,16 @@
+@import "../../../styles/colors";
+
+.mail-box-sidebar {
+  .compose-btn {
+    background-color: #c2e7ff;
+    border: none;
+    border-radius: 20px;
+  }
+  .labels-sidebar {
+    cursor: pointer;
+    font-size: 0.9rem;
+    &:hover {
+      background-color: #dadce0;
+    }
+  }
+}

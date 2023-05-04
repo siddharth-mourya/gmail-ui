@@ -1,0 +1,37 @@
+@import "../../styles/colors";
+
+.hamburger-icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 5%;
+  height: 100%;
+  background-color: $primaryBlue;
+}
+
+.gmail-logo-wrapper {
+  display: flex;
+  align-items: center;
+  width: 18%;
+  img {
+    width: 50%;
+    height: auto;
+  }
+}
+
+.search-and-settings {
+  width: 77%;
+}
+
+.profile-settings {
+  .btn {
+    font-size: small;
+  }
+  .profile-pic {
+    width: 3vw;
+    height: 3vw;
+    border: 1px solid grey;
+    border-radius: 50%;
+    vertical-align: middle;
+  }
+}

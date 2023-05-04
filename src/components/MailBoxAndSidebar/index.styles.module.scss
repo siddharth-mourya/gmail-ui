@@ -1,0 +1,17 @@
+@import "../../styles/colors";
+.content-wrapper {
+  height: 100%;
+  .app-sidebar {
+    width: 5%;
+    height: 100%;
+    background-color: $primaryBlue;
+  }
+  .mail-sidebar {
+    width: 17%;
+    height: 100%;
+  }
+  .mails-section {
+    width: 75%;
+    height: 100%;
+  }
+}

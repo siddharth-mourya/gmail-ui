@@ -1,0 +1,17 @@
+.mail-table {
+  font-size: small;
+  .sender {
+    width: 15%;
+  }
+  .message {
+    width: 65%;
+    text-overflow: ellipsis; /* enables ellipsis */
+    white-space: nowrap; /* keeps the text in a single line */
+    overflow: hidden; /* keeps the element from overflowing its parent */
+  }
+  .time {
+    float: right;
+  }
+  height: 100%;
+  overflow-y: scroll !important;
+}

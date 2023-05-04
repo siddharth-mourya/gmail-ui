@@ -1,0 +1,13 @@
+@import "../../styles/colors";
+
+.content-wrapper {
+  background-color: $primaryGrey;
+  .settings-header-bar {
+    width: 100%;
+    height: 10vh;
+  }
+  .mailbox-and-sidebar {
+    width: 100%;
+    height: 90vh;
+  }
+}

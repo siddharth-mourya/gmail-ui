@@ -1,0 +1,10 @@
+.category-pill-wrapper {
+  cursor: pointer;
+  font-size: 0.8rem;
+  &.highlighted {
+    background-color: #d3e3fd;
+  }
+  &:hover {
+    background-color: #dadce0;
+  }
+}
