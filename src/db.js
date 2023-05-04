@@ -124,5 +124,46 @@ export const mails = [
     message:
       "Thank you for your recent purchase! We hope you are satisfied with your product. If not, please contact us and we will do our best to make things right.",
     time: "12:45 PM",
+  },{
+    sender: "Apple",
+    message:
+      "The new iPhone is now available for pre-order! Visit our website to place your order and be one of the first to get your hands on this amazing new device.",
+    time: "10:15 AM",
+  },
+  {
+    sender: "Microsoft",
+    message:
+      "We are excited to announce our newest software release! Check out our website for more details and to download the latest version.",
+    time: "11:30 AM",
+  },
+  {
+    sender: "Nike",
+    message:
+      "Get ready for the new season with our latest collection of athletic wear! Visit our website to see our new styles and place your order today.",
+    time: "12:45 PM",
+  },
+  {
+    sender: "Starbucks",
+    message:
+      "Stop by your local Starbucks and try our new seasonal drink! It's the perfect way to start your day.",
+    time: "2:00 PM",
+  },
+  {
+    sender: "Tesla",
+    message:
+      "Experience the future of driving with our electric vehicles! Visit a Tesla showroom near you to schedule a test drive.",
+    time: "3:15 PM",
+  },
+  {
+    sender: "Smith & Co.",
+    message:
+      "We wanted to let you know that we appreciate your business and look forward to continuing to serve you in the future. Please don't hesitate to contact us if you have any questions or concerns. Have a great day!",
+    time: "12:45 PM",
+  },
+  {
+    sender: "Acme Corp.",
+    message:
+      "Happy holidays from all of us at Acme Corp.! As a thank you for your loyalty this year, we are offering free shipping on all orders placed before December 31st. Use code 'HAPPYHOLIDAYS' at checkout to take advantage of this special offer. Wishing you all the best in the new year!",
+    time: "11:00 AM",
   },
 ];
